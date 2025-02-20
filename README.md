@@ -4,12 +4,12 @@
 
 File: [unreliable.csv](https://github.com/Gautamshahi/SemCAFE_anonymized/tree/main/unreliable.csv), some of the columns are described below.
 
-- id: tweet ID
-- twitter_link: link to the tweet
+- news_article: ID of news article
+- news_link: link to the news articles
 
 ## ReliableNews Data
 
 File: [reliable.csv](https://github.com/Gautamshahi/SemCAFE_anonymized/tree/main/reliable.csv)
 
-- id: tweet ID of the retweet
-- misinfo_id: tweet ID of the misinfo tweet that is being retweeted
+- news_article: ID of news article
+- news_link: link to the news articles
